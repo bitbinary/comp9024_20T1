@@ -1,1 +1,3 @@
 run.c
+*.exe
+test.c

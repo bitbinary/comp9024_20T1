@@ -1,5 +1,5 @@
-// Author: Amel Johny
-// Student ID: 5294308
+// Author: ************
+// Student ID: ************
 // Platform: Windows 10 , GCC compiler 4.8.3
 
 #include <stdlib.h>
